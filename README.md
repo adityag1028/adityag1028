@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya
+- 👋 Hi, I’m Aditya,
 - 👀 I'm here to be a part of ever-changing technology.
 - 🌱 I’m currently working as an ML Engineer.
 
